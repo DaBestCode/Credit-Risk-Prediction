@@ -1,3 +1,4 @@
+#Model Training - https://github.com/DaBestCode/Credit-Risk-Prediction-Model-Training
 💳 Credit Risk Modeling with XGBoost and Optuna
 This project builds a machine learning model to predict credit default risk — a critical problem in financial institutions. We use XGBoost, a high-performance gradient boosting algorithm, along with Optuna for hyperparameter optimization. The dataset contains information on loan applicants and whether they defaulted, and the model predicts creditworthiness based on these features.
 
