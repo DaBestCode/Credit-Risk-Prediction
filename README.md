@@ -30,6 +30,21 @@ Automates tuning of critical parameters like max_depth, eta, gamma, etc.
 
 Objective is to maximize the macro F1-score using cross-validation
 
+📈 Results
+Optimized hyperparameters using Optuna
+
+Achieved high macro F1-score with balanced sensitivity across classes
+
+Can be extended for deployment in financial risk scoring systems
+
+📚 Learn More
+This project is based on the Codebasics Credit Risk dataset walkthrough, enhanced with modern tuning and evaluation techniques.
+
+🤝 Contributions
+Feel free to open issues or submit pull requests if you’d like to improve the project.
+
+
+
 Evaluation
 
 Uses cross_val_score for robust evaluation
